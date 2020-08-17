@@ -1,0 +1,2 @@
+# LNA-RF-Amplifier
+I cooperate for this project with a student colleague of mine, Emiljo Mëhillaj. We designed aone stage LNA in AWR using BFP720 transistor by Infineon. The circuit is operating in 10GHz with abandwidth more than 1 GHz and a Noise figure smaller than 2dB. The Power Gain of the amplifier is14.5 dB which is also the biggest Power Gain for 2dB noise figure. We also designed the DC part of theamplifier.
